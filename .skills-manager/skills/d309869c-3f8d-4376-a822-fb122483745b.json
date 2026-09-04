@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d309869c-3f8d-4376-a822-fb122483745b",
+  "path": "CodeGraph Repository Analysis",
+  "path_key": "codegraph repository analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

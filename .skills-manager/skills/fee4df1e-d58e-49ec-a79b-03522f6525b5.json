@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fee4df1e-d58e-49ec-a79b-03522f6525b5",
+  "path": "database-schema-designer",
+  "path_key": "database-schema-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "softaworks/agent-toolkit/database-schema-designer",
+    "subpath": "skills\\database-schema-designer",
+    "branch": null
+  }
+}
